@@ -16,3 +16,5 @@ Cách chơi:
 + Ân nút cách để hạ các khối ngay lập tức.
 + Khi gạch xếp đầy 1 hàng sẽ mất và được cộng điểm, càng nhiều hàng bị xóa cùng lúc càng được cộng nhiều.
 + Tốc độ tăng dần khi qua các level.
+
+Demo: https://drive.google.com/file/d/1618XIvwFh4vQTK7LY-r01pE_RXzOLqJb/view?usp=sharing
