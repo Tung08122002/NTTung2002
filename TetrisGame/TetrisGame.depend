@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619621944 source:c:\users\thanh\onedrive\desktop\tetrisgame\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"colors.h"
+
+1618455024 c:\users\thanh\onedrive\desktop\tetrisgame\colors.h
+
